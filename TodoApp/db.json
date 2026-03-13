@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Wake Up in the Morning",
+      "description": "Get out of bed and start the day",
+      "category": "Self-Care",
+      "completed": false,
+      "createdAt": "2026-02-20"
+    },
+    {
+      "id": 2,
+      "title": "Complete React Assignment",
+      "description": "Finish the expense tracker project",
+      "category": "Work",
+      "completed": false,
+      "createdAt": "2026-02-21"
+    },
+    {
+      "id": 3,
+      "title": "Think about the future",
+      "description": "Mai aisa kyu hu ,mai aisa kyu hu",
+      "category": "Motivation",
+      "completed": false,
+      "createdAt": "2026-02-22"
+    },
+    {
+      "id": 4,
+      "title": "Go to Sleep",
+      "description": "No Compromize with sleep",
+      "category": "Self-Care",
+      "completed": true,
+      "createdAt": "2026-02-20"
+    },
+    {
+      "id": 5,
+      "title": "No Work Today",
+      "description": "Aaj kaam nahi karna",
+      "category": "Work",
+      "completed": true,
+      "createdAt": "2026-02-20"
+    },
+    {
+      "title": "helllo",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
